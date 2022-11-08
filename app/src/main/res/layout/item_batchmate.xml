@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:padding="10dp"
+    android:background="@drawable/border">
+
+    <TextView
+        android:id="@+id/regdisp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/off_white"
+        android:background="@color/blue_500"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:text="@string/registration_number"/>
+
+    <TextView
+        android:id="@+id/sub1disp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/subjects"
+        android:textColor="@color/blue_500"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/sub2disp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/subjects"
+        android:textColor="@color/blue_500"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/sub3disp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/subjects"
+        android:textColor="@color/blue_500"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+</LinearLayout>
