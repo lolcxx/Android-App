@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/batchmates.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/item_batchmate.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/item_subject.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SOURAV/Downloads/Student-Subject-Data/app/src/main/res/layout/subjects.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/batchmates.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout/item_batchmate.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/item_subject.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.2947746558982919" />
+        <entry key="app/src/main/res/layout/subjects.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
